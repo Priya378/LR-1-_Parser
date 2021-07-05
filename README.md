@@ -1,2 +1,1 @@
-# LR-1-_Parser
-Implementation of bottom up parsing technique i.e, LR(1) parsing technique.
+### This is a mini project done as a part of Compiler Design Course.
